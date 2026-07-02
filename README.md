@@ -19,6 +19,7 @@ Walk-forward backtesting framework comparing GARCH(1,1) conditional volatility a
 - Methodology later extended in my master's thesis with HMM-based regime detection and fuzzy logic risk classification
 
 **Files:**
-- `investment.ipynb` — full analysis code
+**Files:**
+- `investment.ipynb` — full analysis code (Python)
 - `Volatility-Driven_Asset_Allocation...pdf` — presentation slides
 
