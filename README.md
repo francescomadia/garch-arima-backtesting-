@@ -21,5 +21,5 @@ Walk-forward backtesting framework comparing GARCH(1,1) conditional volatility a
 **Files:**
 **Files:**
 - `investment.ipynb` — full analysis code (Python)
-- `Volatility-Driven_Asset_Allocation...pdf` — presentation slides
+- `Volatility-Driven_Asset_Allocation...pdf` — presentation slides (large file, download to view — inline preview may fail)
 
