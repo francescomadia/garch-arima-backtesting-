@@ -4,7 +4,7 @@ Walk-forward backtesting framework comparing GARCH(1,1) conditional volatility a
 
 **Course:** Laboratory of Data Analytics for Investment, Università Cattolica
 
-**Datasets:** Provided by the course, used with permission. Includes historical S&P 500 constituent metrics and a time-varying composition matrix (1/0 flag for index membership at time t, avoiding survivorship bias).
+**Datasets:** Provided by the course (Laboratory of Data Analytics for Investment). Not redistributed here due to licensing restrictions. Includes historical S&P 500 constituent return metrics and a time-varying composition matrix (binary flag, 1 if a stock was a member of the index at time t, 0 otherwise — used to eliminate survivorship bias in the backtest).
 
 **Methodology:**
 - Walk-forward backtest, weekly rebalancing, no look-ahead or survivorship bias
